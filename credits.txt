@@ -1,0 +1,25 @@
+------------------------objects------------------------
+celing.obj              :   self-made using Blender
+clanger-boat*.obj       :   self-made using Blender and image -> http://i44.photobucket.com/albums/f28/Waybully/RH%20Piccies/ClangersCLMB1.jpg
+clanger*.obj            :   self-made using Blender and image -> http://news.images.itv.com/image/file/275708/article_1e9631f6b27bfffe_1381818679_9j-4aaqsk.jpeg
+clangers-text.obj       :   self-made using Blender and image -> http://upload.wikimedia.org/wikipedia/en/c/c7/Clangers-album.jpg
+crater-top*.obj         :   self-made using Blender and image -> http://didyoumakethat.files.wordpress.com/2013/10/600full-the-clangers-artwork.jpg
+landscape-moon.obj      :   self-made using Blender
+skybox*.obj             :   self-made using Blender
+
+------------------------textures------------------------
+clanger.bmp         :   self-made using GIMP
+clanger-boat.bmp    :   self-made using GIMP and image -> http://farm3.staticflickr.com/2453/3567255587_1dc0c47b8b_o.jpg
+clangers-text.bmp   :   self-made using GIMP
+crater-top.bmp      :   self-made using GIMP and image -> http://didyoumakethat.files.wordpress.com/2013/10/600full-the-clangers-artwork.jpg
+moon.bmp            :   self-made using GIMP and image -> http://thumbs.dreamstime.com/z/moon-texture-14605855.jpg
+space.bmp           :   used image -> http://gallery04.digitalrev.com/2061090/cover_bg/8f3ae80aa53e4f17a7d8b659926a4dd2.jpg
+space-earth.bmp     :   self-made using GIMP and combining images -> (http://gallery04.digitalrev.com/2061090/cover_bg/8f3ae80aa53e4f17a7d8b659926a4dd2.jpg) and (http://d1jqu7g1y74ds1.cloudfront.net/wp-content/uploads/2009/10/globe_west_2048.jpg)
+space-mars.bmp      :   self-made using GIMP and combining images -> (http://gallery04.digitalrev.com/2061090/cover_bg/8f3ae80aa53e4f17a7d8b659926a4dd2.jpg) and (http://media.npr.org/assets/img/2013/05/02/mars-nasa_custom-745ff15ed1a80d8cbb47a4cb44186c5b6bea41e3-s6-c30.jpg)
+
+------------------------code------------------------
+util.cpp    : code used and manipulated from http://www.opengl-tutorial.org/ (loadShaders,objLoader and texture source files)
+camera.cpp  : code used and manipualted from http://ogldev.atspace.co.uk/ and http://www.opengl-tutorial.org/ (controls class)
+object.cpp  : code used and manipulated from http://ogldev.atspace.co.uk/ (mesh class)
+*.vert      : code used and manipulated from http://www.opengl-tutorial.org/ and comp3004 examples
+*.frag      : code used and manipulated from http://www.opengl-tutorial.org/ and comp3004 examples

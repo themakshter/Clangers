@@ -1,4 +1,6 @@
-comp3004cw3
-===========
+comp3004cw3 – COMP3004: Principles of Computer Graphics coursework 
+===================
 
-COMP3004 Coursework 3 - A virtual world based on theme 'The Clanngers'
+A virtual world based on the theme the old BBC show Clangers (http://en.wikipedia.org/wiki/Clangers).
+
+
